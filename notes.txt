@@ -1,0 +1,10 @@
+#1 Télécharger Joomla
+https://www.joomla.fr/joomla/telecharger-
+
+#2 Télécharger la structure de base d'un composant
+https://gitlab.com/BlaadFrost/Structure-Composant
+
+#3 Documentation
+https://docs.joomla.org/Model-View-Controller
+https://docs.joomla.org/J3.x:Developing_an_MVC_Component/fr
+

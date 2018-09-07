@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="3.0" method="upgrade">
+
+    <name>UserList</name>
+    <creationDate>Septembre 2018</creationDate>
+    <author>Lukas Lepez</author>
+    <authorEmail>john.doe@example.org</authorEmail>
+    <authorUrl>http://www.example.org</authorUrl>
+    <copyright>Copyright Info</copyright>
+    <license>License Info</license>
+    <version>0.0.1</version>
+    <description>UserList permet d'afficher la liste des utilisateur inscrit sur le site</description>
+
+    <files folder="site">
+        <filename>index.html</filename>
+        <filename>userlist.php</filename>
+        <filename>controller.php</filename>
+        <folder>views</folder>
+        <folder>models</folder>
+        <folder>controllers</folder>
+    </files>
+
+    <administration>
+        <menu link='index.php?option=com_userlist'>UserList</menu>
+        <files folder="admin">
+            <filename>index.html</filename>
+            <filename>userlist.php</filename>
+        </files>
+    </administration>
+
+</extension>

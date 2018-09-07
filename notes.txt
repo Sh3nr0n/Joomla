@@ -4,7 +4,12 @@ https://www.joomla.fr/joomla/telecharger-
 #2 Télécharger la structure de base d'un composant
 https://gitlab.com/BlaadFrost/Structure-Composant
 
-#3 Documentation
+#3 Documentation composants
 https://docs.joomla.org/Model-View-Controller
 https://docs.joomla.org/J3.x:Developing_an_MVC_Component/fr
+
+#4 Templates
+Fichiers importants pour un template Joomla:
+index.php : le squelette du template
+templateDetails.xml : métadonnées sur le template + autre 
 
